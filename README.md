@@ -1,6 +1,6 @@
-NOTE: Size of the repo is more than 20Gb, so be careful
+NOTE: Don't clone this repository! If you want to build WebRTC manually just download single build_webrtc.sh file and follow the steps.
 
-Here are the instructions on how to get content of this repository manually step by step. In case if you just need already builded libraries just clone artifacts branch: 
+Here are the instructions on how to get content of this repository manually step by step. In case if you need ready libraries just clone artifacts branch: 
 
 
 According to the official docs only Linux supported, so I highly recommend using Ubuntu.
