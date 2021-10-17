@@ -22,3 +22,7 @@ git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
 `./build_webrtc.sh`
 
 - **Step 6.** After the build artifacts can be found under ROOT_DIR/artifacts
+
+**This repo is part of WebRTC examples, see also:**
+- WebRTC Signaling server in Ktor - https://github.com/artem-bagritsevich/WebRTCKtorSignalingServerExample
+- P2P Android client based on WebRTC - https://github.com/artem-bagritsevich/WebRTCAndroidAppExample
